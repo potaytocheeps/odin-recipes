@@ -1,0 +1,50 @@
+/*
+    Color Palette:
+
+    #FFEADD
+    #FCAEAE
+    #FF8989
+    #FF6666
+*/
+
+body {
+    background-color: #FFEADD;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #45362C;
+}
+
+.index-page {
+    text-align: center;
+}
+
+.recipe-list {
+    list-style: none;
+    padding: 0;
+}
+
+.recipe-list li {
+    font-size: 20px;
+}
+
+a {
+    color: #5E6378;
+}
+
+h1 {
+    font-size: 45px;
+    color: #FF6666;
+}
+
+h2 {
+    font-size: 30px;
+    color: #D74248;
+}
+
+h3 {
+    color: #B0172C;
+}
+
+img {
+    width: 40%;
+    height: auto;
+}
